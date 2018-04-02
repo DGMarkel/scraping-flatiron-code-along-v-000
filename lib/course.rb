@@ -11,5 +11,6 @@ end
 
 def self.reset_all
   @@all.clear
+en
 
 end
